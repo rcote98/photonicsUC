@@ -1,6 +1,6 @@
 # Photonics UC
 
-Assignments for my photonics course during my Physics M.Sc. in the University of Cantabria.
+Assignments for my photonics course in the University of Cantabria.
 
 ## Requirements
 
